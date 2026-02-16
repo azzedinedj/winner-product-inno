@@ -1,0 +1,8 @@
+{
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "description": "Winning Products DZ - SaaS platform for finding trending products in Algeria.",
+  "name": "Generated"
+}
